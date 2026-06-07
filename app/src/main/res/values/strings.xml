@@ -4,72 +4,88 @@
     <!-- shared -->
     <string name="gurkm_price">£%1$.2f</string>
 
+    <!-- categories -->
+    <string name="gurkm_category_toys">Toys</string>
+    <string name="gurkm_category_educational">Educational</string>
+    <string name="gurkm_category_newborn">Newborn</string>
+    <string name="gurkm_category_clothing">Clothing</string>
+    <string name="gurkm_category_accessories">Accessories</string>
+
     <!-- top bar titles -->
-    <string name="gurkm_top_bar_home_title">Home/App Title</string>
-    <string name="gurkm_top_bar_cart_title">Cart</string>
+    <string name="gurkm_top_bar_home_title">ValKids Shelf</string>
+    <string name="gurkm_top_bar_cart_title">My Cart</string>
     <string name="gurkm_top_bar_checkout_title">Checkout</string>
-    <string name="gurkm_top_bar_orders_title">Orders</string>
+    <string name="gurkm_top_bar_orders_title">My Orders</string>
     <string name="gurkm_top_bar_settings_title">Settings</string>
-    <string name="gurkm_top_bar_product_details_title">Details</string>
+    <string name="gurkm_top_bar_product_details_title">Product Details</string>
 
     <!-- bottom bar navigation item titles -->
-    <string name="gurkm_bottom_bar_nav_item_home_title">Home</string>
+    <string name="gurkm_bottom_bar_nav_item_home_title">Shop</string>
     <string name="gurkm_bottom_bar_nav_item_cart_title">Cart</string>
     <string name="gurkm_bottom_bar_nav_item_orders_title">Orders</string>
     <string name="gurkm_bottom_bar_nav_item_settings_title">Settings</string>
 
     <!-- onboarding screen -->
-    <string name="gurkm_page_1_title">Strategic Planning</string>
-    <string name="gurkm_page_2_title">Operational Excellence</string>
-    <string name="gurkm_page_3_title">Change Management</string>
-    <string name="gurkm_page_1_description">Comprehensive strategic analysis and planning that aligns your business objectives with market opportunities and organizational capabilities.</string>
-    <string name="gurkm_page_2_description">Process optimization and operational improvement strategies that enhance efficiency, reduce costs, and drive sustainable performance.</string>
-    <string name="gurkm_page_3_description">Expert guidance through organizational transformation</string>
+    <string name="gurkm_page_1_title">Toys That Inspire</string>
+    <string name="gurkm_page_2_title">Learn Through Play</string>
+    <string name="gurkm_page_3_title">Curated for Every Age</string>
+    <string name="gurkm_page_1_description">Discover our handpicked selection of high-quality toys that spark creativity and joy in children of all ages. Premium playthings delivered to your door.</string>
+    <string name="gurkm_page_2_description">From educational puzzles to wooden building sets, our collection is designed to nurture your child\'s curiosity and support every stage of development.</string>
+    <string name="gurkm_page_3_description">Newborn essentials, toddler favourites, and big-kid adventures — shop by age group to find the perfect gift or everyday favourite.</string>
     <string name="gurkm_next_button_title">Next</string>
-    <string name="gurkm_start_button_title">Start</string>
+    <string name="gurkm_start_button_title">Get Started</string>
     <string name="gurkm_skip_button_title">Skip</string>
 
-    <!-- home/products screen   -->
+    <!-- home/products screen -->
     <string name="gurkm_products_state_empty_primary_text">No products available</string>
+    <string name="gurkm_featured">Featured</string>
+    <string name="gurkm_all_products">All Products</string>
 
-    <!-- product details screen   -->
-    <string name="gurkm_product_details_state_empty_primary_text">No information available for this product</string>
+    <!-- product details screen -->
+    <string name="gurkm_product_details_state_empty_primary_text">Product details not available</string>
     <string name="gurkm_product_image_description">Product image</string>
     <string name="gurkm_button_add_to_cart_label">Add to Cart</string>
+    <string name="gurkm_added_to_cart">Added to cart</string>
 
     <!-- cart screen -->
-    <string name="gurkm_cart_state_empty_primary_text">Nothing in your cart yet</string>
+    <string name="gurkm_cart_state_empty_primary_text">Your cart is empty</string>
+    <string name="gurkm_cart_start_shopping">Start Shopping</string>
+    <string name="gurkm_cart_subtotal">Subtotal</string>
+    <string name="gurkm_cart_total">Total</string>
     <string name="gurkm_button_place_order_label">Place Order • £%1$.2f</string>
+    <string name="gurkm_button_proceed_checkout">Proceed to Checkout</string>
     <string name="gurkm_increase_quantity_icon_description">Increase quantity</string>
     <string name="gurkm_decrease_quantity_icon_description">Decrease quantity</string>
     <string name="gurkm_delete_item_icon_description">Delete item</string>
 
     <!-- orders screen -->
-    <string name="gurkm_orders_state_empty_primary_text">You have no orders yet</string>
+    <string name="gurkm_orders_state_empty_primary_text">No orders yet</string>
     <string name="gurkm_order_number">Order #%1$s</string>
     <string name="gurkm_order_customer">Customer: %1$s %2$s</string>
+    <string name="gurkm_order_completed">Completed</string>
 
     <!-- checkout screen -->
     <string name="gurkm_checkout_text_field_first_name">First Name</string>
     <string name="gurkm_checkout_text_field_last_name">Last Name</string>
     <string name="gurkm_checkout_text_field_email">Email</string>
+    <string name="gurkm_checkout_order_summary">Order Summary</string>
     <string name="gurkm_button_confirm_order_label">Confirm Order</string>
 
     <!-- checkout dialog -->
     <string name="gurkm_checkout_dialog_title">Order Confirmed</string>
     <string name="gurkm_checkout_dialog_order_number">Order number: #%1$s</string>
-    <string name="gurkm_checkout_dialog_processing_message">Your order will be processed within 24 hours.</string>
+    <string name="gurkm_checkout_dialog_processing_message">Your order will be ready in-store within 24 hours. We look forward to seeing you!</string>
 
     <!-- settings screen -->
     <string name="gurkm_settings_screen_company_label">Company</string>
     <string name="gurkm_settings_screen_version_label">Version</string>
     <string name="gurkm_settings_screen_customer_support_label">Customer Support</string>
-    <string name="gurkm_company_name">Company Name</string>
+    <string name="gurkm_company_name">Valentine Londres Ltd</string>
     <string name="gurkm_app_version">1.0.0</string>
-    <string name="gurkm_customer_support_link">https://website.org/</string>
+    <string name="gurkm_customer_support_link">http://valentine-londres.top/</string>
 
     <!-- clear cart dialog -->
-    <string name="gurkm_clear_cart_dialog_title">Clear cart?</string>
+    <string name="gurkm_clear_cart_dialog_title">Clear Cart?</string>
     <string name="gurkm_clear_card_dialog_text">Are you sure you want to remove all items from your cart?</string>
     <string name="gurkm_button_confirm_clear_cart_title">Confirm</string>
     <string name="gurkm_button_cancel_clear_cart_title">Cancel</string>
